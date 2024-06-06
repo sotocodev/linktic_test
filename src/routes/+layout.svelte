@@ -1,5 +1,5 @@
 <script>
-  import '../styles/global.css';
+  import "../styles/global.css";
   import Header from "../UI/organisms/Header/Header.svelte";
   import Footer from "../UI/organisms/Footer/Footer.svelte";
 </script>
