@@ -3,5 +3,5 @@
 </script>
 
 <a href="/" class={`w-full h-auto ${customClass}`}>
-  <img src="/favicon.png" alt="logo" class="w-full h-auto" />
+  <img src="/favicon.png" alt="logo" class="h-auto" />
 </a>
